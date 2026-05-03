@@ -1,0 +1,10 @@
+firstnumber = int(input("enter the firstnumber :"))
+secondnumber = int(input("enter the secondnumber :"))
+
+print(firstnumber)
+print(secondnumber)
+
+total_sum = firstnumber * secondnumber
+
+print(total_sum)
+
