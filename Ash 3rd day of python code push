@@ -1,0 +1,9 @@
+firstnumber = float(input("enter the firstnumber :"))
+secondnumber = float(input("enter the secondnumber :"))
+
+print(firstnumber)
+print(secondnumber)
+
+total_sum = firstnumber + secondnumber
+
+print(total_sum)
