@@ -1,0 +1,4 @@
+tutorial = "microdegree course in kannada"
+           #01234
+
+print(tutorial[5:])
