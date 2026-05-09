@@ -1,0 +1,3 @@
+course ='post degree'
+
+print(f"i am studying the {course} in mite")
