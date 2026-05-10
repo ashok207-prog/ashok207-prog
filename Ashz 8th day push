@@ -1,0 +1,7 @@
+first ='microdegree'
+
+variable = (f"i am studying the {first} in mite")
+
+print("hello there" + first + "is tutorial site")
+
+print(variable)
