@@ -1,0 +1,5 @@
+subject ="I am learning the basics of python"
+
+print(len(subject))
+
+print(subject.upper())
