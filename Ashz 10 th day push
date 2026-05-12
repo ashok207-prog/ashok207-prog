@@ -1,0 +1,5 @@
+text_wiki ="Kannada is a Dravidian language spoken predominantly i>
+
+
+
+print(text_wiki.find("karnataka"))
