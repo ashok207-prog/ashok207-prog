@@ -1,0 +1,8 @@
+text_from_wiki ="Kannada is a Dravidian language spoken predominantly by kanadigas."\
+                "the people in Southern India."\
+                "The language is also spoken by linguistic minorities"\
+                "in the states of Maharashtra, Aadhra pradesh"\
+                "Tamil lady, Ielaagana, Kecala and Goa; and also by Kacaatakas expect abroad."\
+
+
+print(text_from_wiki.replace('people','kanadigas'))
