@@ -1,0 +1,14 @@
+text_from_wiki ="Kannada is a Dravidian language spoken predominant\
+                "the people in Southern India."\
+                "The language is also spoken by linguistic minorit\
+                "in the states of Maharashtra, Aadhra pradesh"\
+                "Tamil lady, Ielaagana, Kecala and Goa; and also b\
+
+
+print('barath'in text_from_wiki)
+
+print(text_from_wiki.upper())
+
+         output()
+False
+KANNADA IS A DRAVIDIAN LANGUAGE SPOKEN PREDOMINANTLY BY KANADIGAS.THE PEOPLE IN SOUTHERN INDIA.THE LANGUAGE IS ALSO SPOKEN BY LINGUISTIC MINORITIESIN THE STATES OF MAHARASHTRA, AADHRA PRADESHTAMIL LADY, IELAAGANA, KECALA AND GOA; AND ALSO BY KACAATAKAS EXPECT ABROAD.
