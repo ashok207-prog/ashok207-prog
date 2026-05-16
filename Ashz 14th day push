@@ -1,0 +1,13 @@
+text_from_wiki = "Kannada is a Dravidian language spoken predominat"\
+                 "the people of Kacoatake in Southern India." \
+                 "The language is also spoken by linguistic minority"\
+                 "in the states of Maharashtra, adhra pradesh, "\
+
+
+print(len(text_from_wiki))
+
+print(text_from_wiki.upper())
+
+print(text_from_wiki in["the","kannada"])
+
+print(text_from_wiki.find("states"))
