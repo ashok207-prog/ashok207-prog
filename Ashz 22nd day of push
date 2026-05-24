@@ -1,0 +1,6 @@
+import math
+print(math.floor(234.4356))
+
+print(math.sqrt(23))
+
+print(math.radians(12))
