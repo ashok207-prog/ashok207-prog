@@ -1,0 +1,3 @@
+cricketers = ["Sachin", "Dhoni", "Virat"]
+print("my fav cricketers are\n")
+print(cricketers)
