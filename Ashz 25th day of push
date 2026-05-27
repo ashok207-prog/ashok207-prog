@@ -1,0 +1,2 @@
+cricketers = ["Şachin", "Dhoni", "virat", "Dravid" , "Amarnath", "Sehwag"]
+print(cricketers[1:4])
