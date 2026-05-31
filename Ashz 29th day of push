@@ -1,0 +1,5 @@
+countries = ["india" , "france" , "switzerland" , "ireland" , "germany" , "italy"]
+           #  0       1          2
+countries.append("japan")
+countries.insert(2,"uppi")
+print(countries)
