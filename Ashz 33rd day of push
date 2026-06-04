@@ -1,0 +1,7 @@
+states = ["karnataka" , "gujurath" , "kerala" , "jammu" , "delhi" , "bihar"]
+           #  0       1          2
+# states.append("japan")
+# states.insert(2,"uppi")
+# states.remove(4)
+# states.clear()
+print(states)
