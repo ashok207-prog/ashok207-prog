@@ -1,0 +1,8 @@
+states = ["karnataka" , "gujurath" , "kerala" , "jammu" , "delhi" , "bihar"]
+           #  0       1          2
+states.append("patna")
+states.insert(2,"mumbai")
+states.remove("kerala")
+states.pop()
+states.pop()
+print(states)
