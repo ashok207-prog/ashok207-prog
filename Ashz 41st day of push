@@ -1,0 +1,4 @@
+states = ["karnataka" , "kerala" , "gujurath" , "kerala" , "jammu" , "delhi" ]
+           #  0       1          2
+states.sort()
+print(states)
