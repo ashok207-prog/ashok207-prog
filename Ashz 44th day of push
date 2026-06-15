@@ -1,0 +1,3 @@
+natural_numbers = [8,4,1,98,56,74]
+natural_numberscopy = natural_numbers.copy()
+print(natural_numberscopy)
