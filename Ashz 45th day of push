@@ -1,0 +1,5 @@
+states = ["karnataka" , "kerala" , "gujurath" , "kerala" , "jammu" , "delhi" ]
+           #  0       1          2
+natural_numbers = [8,4,1,98,56,74]
+states.extend(natural_numbers)
+print(states)
