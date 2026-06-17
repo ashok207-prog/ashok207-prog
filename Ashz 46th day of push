@@ -1,0 +1,4 @@
+states = ["karnataka" , "kerala" , "gujurath" , "kerala" , "jammu" , "delhi" , "bihar"]
+           #  0       1          2
+states.pop()
+print(states)
