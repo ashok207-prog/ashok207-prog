@@ -1,0 +1,2 @@
+states = ["karnataka" , "kerala" , "gujurath" , "kerala" , "jammu" , "delhi" , "bihar"]
+print(states.index("jammu"))
