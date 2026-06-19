@@ -1,0 +1,3 @@
+states = ["karnataka" , "kerala" , "gujurath" , "kerala" , "jammu" , "delhi" , "bihar"]
+states.remove("bihar")
+print(states)
