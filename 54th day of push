@@ -1,0 +1,4 @@
+is_passed = False
+
+if is_passed:
+        print("congrats you are passed")
