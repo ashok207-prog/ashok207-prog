@@ -1,0 +1,10 @@
+is_passed = True
+
+if is_passed:
+        print("congrats you won")
+
+else:
+        print("sorry you lost")
+
+
+
