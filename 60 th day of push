@@ -1,0 +1,9 @@
+is_passed = True
+
+if is_passed:
+        print("congrats you have passed")
+        print("please collect your marks card")
+else:
+        print("sorry you lost")
+        print("please rewrite the exam")
+
