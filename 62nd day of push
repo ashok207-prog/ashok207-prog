@@ -1,0 +1,9 @@
+is_passed = True
+
+if is_passed:
+        print("congrats you won")
+        print("please collect your winning certificate")
+else:
+        print("sorry you lost")
+        print("please collect your participated certificate")
+
