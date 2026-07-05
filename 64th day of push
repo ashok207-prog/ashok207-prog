@@ -1,0 +1,11 @@
+is_distinction = True
+is_passed = True
+
+if is_distinction:
+        print("Awesome!,you have eraned dustinction")
+
+elif is_passed:
+        print("good,you have passed")
+
+else:
+        print("sorry,you have failed")
