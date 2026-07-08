@@ -1,0 +1,14 @@
+is_distinction = False
+is_passed = False
+
+if is_distinction:
+        print("Awesome!,you have eraned distinction")
+
+elif is_passed:
+        print("good,you have passed")
+
+else:
+        print("sorry,you have failed")
+
+
+
