@@ -1,0 +1,10 @@
+has_learned_python=True
+has_degree=True
+
+if has_learned_python and has_degree:
+        print("call for interview")
+
+
+
+
+
