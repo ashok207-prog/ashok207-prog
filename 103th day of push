@@ -1,0 +1,14 @@
+has_learned_python=False
+has_degree=False
+
+if has_learned_python and has_degree:
+        print("call_for_interview")
+
+
+
+
+
+
+
+
+
