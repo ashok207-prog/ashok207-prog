@@ -1,0 +1,12 @@
+
+has_learned_java=True
+has_master_degree=True
+
+if has_learned_java and has_master_degree:
+        print("call_for_interview")
+
+
+
+
+
+
