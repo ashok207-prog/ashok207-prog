@@ -1,0 +1,11 @@
+has_learned_c++=True
+has_degree=True
+
+if has_learned_c++ and has_degree:
+        print("call_for_interview")
+
+
+
+
+
+
