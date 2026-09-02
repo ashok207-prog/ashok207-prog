@@ -1,0 +1,20 @@
+mobile_price = 15899900
+
+is_google_pay = True 
+
+if is_google_pay:
+
+        discount = 0.2 * mobile_price
+
+else:
+
+        discount =  0.1 * mobile_price
+
+print(f"Discount Amount :{discount}")
+
+
+
+
+
+
+
