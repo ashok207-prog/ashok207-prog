@@ -1,0 +1,8 @@
+has_learned_java=True
+has_degree=True
+
+if has_learned_java and has_degree:
+        print("call_for_interview")
+
+
+
