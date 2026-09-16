@@ -1,0 +1,9 @@
+length  = float(input("enter the value of length:"))
+breadth = float(input("enter the value of breadth:"))
+area = (length*breadth)
+print("area of rectangle:" + str(area))
+
+
+
+
+
