@@ -1,0 +1,7 @@
+p = float(input("enter thr value of p :"))
+t = float(input("enter the value of t :"))
+r = float(input("enter the value of r :"))
+si = (p*t*r)/100
+print("the simple intrest is " + str(si))
+
+
