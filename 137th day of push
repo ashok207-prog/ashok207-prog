@@ -1,0 +1,4 @@
+length  = float(input("enter the value of length:"))
+lenght = float(input("enter the value of length:"))
+area = (length*length)
+print("area of square:" + str(area))
