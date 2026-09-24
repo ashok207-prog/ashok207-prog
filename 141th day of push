@@ -1,0 +1,5 @@
+side = float(input(")enter the value of length:"))
+perimeter  = 4*(side)
+print("perimeter of square:" + str(perimeter))
+
+
