@@ -1,0 +1,55 @@
+#include<stdio.h>
+#include<stdlib.h>
+#define MAX 5
+int top=-1;
+int main()
+{ int stack_overflow();
+int stack_underflow();
+int stack_empty();
+void push(int stack[], int value);
+int pop(int stack[]);
+int peek(int stack[]);
+void stack_display(int stack[]);
+int stack[MAX], value, choice, x;
+do
+{ printf("Enter 1-PUSH \n 2-POP \n
+3-PEEK \n 4-DISPLAY \n
+any value for EXIT \n");
+scanf("%d", &choice);
+switch(case)
+{ case 1: if (stack_overflow())
+printf("Stack Overflow \n");
+else
+{ printf("Enter the value to be pushed \n");
+scanf("%d", &value);
+push(stack, value);
+}
+break;
+case 2: if (stack_underflow())
+printf("Stack Underflow \n");
+else
+{ x = pop(stack);
+printf("POPed element from
+stack is %d \n", x);
+}
+break;
+case 3: if (stack_underflow())
+printf("Stack Underflow \n");
+else
+{ x = peek(stack);
+printf("Top most element in
+stack is %d \n", x);
+}
+break;
+case 4: if (stack_empty())
+printf("Stack is Empty \n");
+else
+{ printf("Stack status \n");
+stack_display(stack);
+}
+break;
+default: printf("Invalid input - EXIT \n");
+exit(0);
+} 
+} while (choice >=1 && choice <=4); /* End of do-while */
+return 0;
